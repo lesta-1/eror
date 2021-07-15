@@ -135,7 +135,7 @@ chmod +x port-ws
 chmod +x port-vless
 chmod +x wbmn
 chmod +x xp
-chmod +x patch
+chmod +x update
 clear
 echo ""
 echo "Installation has been completed!!"
