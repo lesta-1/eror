@@ -77,7 +77,7 @@ info
 about
 ;;
 11)
-patch
+update
 ;;
 x)
 exit
